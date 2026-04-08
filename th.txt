@@ -72,3 +72,20 @@ array: -> function
 
 
 JSON: javascript object notation
+
+functions:
+ user define function
+ pre define.
+
+--->
+no return type no arg
+no return type with arg
+with return type no arg
+with return type with arg
+
+
+int sum(){}
+void sum(){}
+
+function keyword
+
