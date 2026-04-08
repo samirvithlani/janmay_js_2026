@@ -1,0 +1,71 @@
+WEB-DEVELOPMENT
+FRAMEWORKS:
+
+TECH:
+Java : java, spring, jsp ->react
+python: python django fast api + react
+Js: js Node + react ->angular
+
+AI + ML : model --> runn -UI -->web app
+----------------------------------------.
+frontend
+backend:
+
+JS: scripting lang:
+server:
+client:js --> browser
+--->
+2 typed: 
+statically typed: int a,float f
+dynamically typed: a=100, a=10.20 var x =10 : compiler
+-------------------------------------------
+m = llong -int short
+ph = long
+-------->
+100 --> int
+1 -->int ->short
+
+js 3 ways : internal external inline js
+
+.js
+-->browser --> web page: HTML -->JSP
+
+JS need:
+STATIC: -->db -->dynamic -->js [fw]
+BOM: browser object model
+DOM: Document object model
+
+
+JS: browser engine:
+firefox : netscape -> spider monkey
+chrome : google ---> v8
+safari  "    --->webkit
+
+
+
+js: variable : 3 keyword:
+var let const:
+
+var : global scope
+let: block
+const :block + final
+
+
+operators:
+unery operators -->  1 operand --> increment decrement
+binary operators ---> min 2 op ->
+ter operators  --> min 3 op -> ?:
+
+arithmetic: +,-,*,/,%, **
+relational :<,>,... ,==,===
+logical , && || !
+asignment op: =
+
+
+loop:
+entery control:  while for  ->
+exit control loop :do while:
+
+
+
+
