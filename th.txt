@@ -68,4 +68,7 @@ exit control loop :do while:
 
 
 
+array: -> function
 
+
+JSON: javascript object notation
