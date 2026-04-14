@@ -89,3 +89,19 @@ void sum(){}
 
 function keyword
 
+----------->
+html element: 
+
+identifieres : element js -->get
+<h1 id> : unique
+<h1 class>: css class it can be duplicate
+<h1 name> : name also can duplicate
+tag:
+
+BOM:
+DOM:
+
+
+<h1>INNER TEXT</h1>
+<h1><p>INNER HTML</p></h1>
+<img src>
