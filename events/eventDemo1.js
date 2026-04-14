@@ -7,8 +7,8 @@ const changetext =(event)=>{
 
     console.log(".......",event)
     const text = document.getElementById("text")
-    console.log(text)//null
-    console.log(text.innerText)
+    console.log(text)
+        console.log(text.innerText)
     text.innerText = "HI"
     text.style.color="blue"
 
