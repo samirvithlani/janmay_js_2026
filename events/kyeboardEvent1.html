@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./kyeboardEvent1.js"></script>
+</head>
+<body>
+    <div>
+        <label>NAME</label>
+        <input type="text" oninput="getData()" id="text1">
+        <input type="text" onkeyup="getData()" id="text2" placeholder="key up">
+        <input type="text" onkeypress="getData()" id="text3" placeholder="key press">
+        <p id="output"></p>
+    </div>
+    <div>
+        <label>EMAIL</label>
+        <input type="text" id="email" onblur="checkEmail()">
+    </div>
+</body>
+</html>
