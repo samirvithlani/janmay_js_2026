@@ -105,3 +105,26 @@ DOM:
 <h1>INNER TEXT</h1>
 <h1><p>INNER HTML</p></h1>
 <img src>
+
+PROMISE: js promise class
+sync , non sync
+
+js  by default non sync
+
+line 1 --->
+line 2  --> 2 sec
+line 3--->
+
+op
+line 1
+line 3
+line 2
+
+
+sync: 
+3 stages:
+
+pending
+fulfil | reject
+
+
