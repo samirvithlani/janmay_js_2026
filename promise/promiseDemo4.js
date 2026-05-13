@@ -1,4 +1,6 @@
-const foodSearch = () => {
+foodList =["","","","","",""]
+
+const foodSearch = (name) => {
   console.log("food search has been started");
   return new Promise((resolve, reject) => {
     setTimeout(() => {

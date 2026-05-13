@@ -128,3 +128,17 @@ pending
 fulfil | reject
 
 
+paperset =["india","gujarat","gandhinar"]
+
+submitPaper =(answers)=>{
+
+}
+
+const exam = ()=>{
+
+
+    submitPaper([])
+
+}
+
+
